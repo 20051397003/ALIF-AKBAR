@@ -1,0 +1,52 @@
+.container {
+    margin: auto;
+    margin-top: 180px;
+    width: 600px;
+    height: 300px;
+}
+
+.header .judul {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 50px;
+    font-weight: bold;
+    color:black;
+}
+
+.data{
+    justify-content: center;
+    margin: auto;
+}
+
+p{
+    font-family: "comic sans ms";
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    color:black;
+}
+
+.data .awal{
+    display: grid;
+    justify-content: center;
+}
+
+.data .akhir{
+    display: grid;
+    justify-content: center;
+    margin-bottom: -20px;
+}
+
+.data .enter{
+    display: grid;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.hasil{
+    text-align: center;
+    font-family: "comic sans ms";
+    font-weight: bold;
+    font-size: 15px;
+    color:black;
+}
